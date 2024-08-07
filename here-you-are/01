@@ -1,28 +1,45 @@
 <html>
 	<head>
-<style>
-    
-            body .top-container {
-            margin-top: 70px;
-        }
-    
-    body {
-         padding-bottom: 10px;
-         padding-top: 60px;
-         background-color:#ffffff ;
-         color: #444444;
-    }
-
- 
-  
-    
-    		.right{float:right;width:auto;margin-left:150px;margin-right:150px;}
-    
-    
-    
-</style>
-		</head>
+		<title>my profile</title>
+		<link href='https://fonts.googleapis.com/css?family=Rammetto One' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=Aguafina Script' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=Allan' rel='stylesheet'>
+		<style>
+		body{background-color:black;color:white;line-height:32px;font-family:"Times New Roman", Times, serif;font-size: 20px;font-stretch:expanded;}
+		#top {position: sticky;top: 0px;overflow: auto;background-color: white;}
+		#top a {float:left;text-align:center;padding: 14px 16px;font-family:'Aguafina Script';font-size:24px;color:black;}
+		#top a:hover {background-color:#FFE9F8 ;color: black;}
+			a.now{background-color:#EBFEFF;color:black;}
+		h1{font-family:"Aguafina Script";font-size:56px;letter-spacing:3px;text-align:center;text-shadow: 2px 2px 8px cyan;}
+		.home{font-size:88px;font-family:'Allan';text-align:center;text-shadow: 2px 2px 8px white;}
+		h2{font-family:"Aguafina Script";font-size:48px;letter-spacing:3px;text-align:center;text-shadow: 2px 2px 8px magenta;}
+		#borderimg1{border:10px solid transparent;border-image:url(./image/element3.png) 120 round;}
+		#borderimg2{border:10px solid transparent;padding:35px;width:13cm;height:7cm;border-image:url(./image/element1.png) 120 round;}
+		#borderimg3{border:10px solid transparent;padding:15px;width:12.5cm;height:6cm;border-image:url(./image/element1.png) 120 round;}
+		strong{font-family: 'Rammetto One';font-size: 28px;font-style:oblique;}
+		a:link {color:white;}
+		a:visited {color:lavender;}
+		a:hover {color:aliceblue;}
+		a:active {color:azure;}
+		.margin{margin-left:105px;}
+		.right{float:right;width: 100%;margin-right:100px;}
+		p#bottom{text-align:right;margin-right:80px;}
+		ul.left{float:left;width:20%;}
+		ul.right{float:right;width:31.5%;}
+		</style>
+	</head>
 <body>
+<br>
+		<h1>Here You Are</h1> 
+<br>
+<div id=top>
+			<a class=now href='./01.html'>Spring</a>&emsp;
+			<a href='./final_addition.html'>Detail &nbsp;About &nbsp;Interest</a>
+			</div>
+<br>
+		<h1>Rainfall in the Spring</h1>
+<br>
+
 <p>&emsp;&emsp;細雨淅淅瀝瀝地落下，朦朧了門外的景色，串作絲線一般的雨滴拍打在枝葉上順勢滑落，直掉在地面的水珠則匯成幾汪水窪，雨水因撞擊而濺起的聲響微弱，可在此起彼落之下仍是喧囂。</p>
 <p>&emsp;&emsp;當赤葦京治背著包踏出體育館時，與他打上照面的便是這樣一幅場景，空氣中瀰漫著悶熱的濕氣，潮悶的氣味入侵鼻腔，讓他少有地生出了一絲心煩意亂。</p>
 <p>&emsp;&emsp;而這主要的起因還得歸咎於背上書包側邊空蕩蕩的傘袋，畢竟連他自己都意外，怎麼會在這幾乎天天下雨的季節忘了收起前一天曬在陽台的傘。</p>
