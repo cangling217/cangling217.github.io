@@ -1,3 +1,28 @@
+<html>
+	<head>
+<style>
+    
+            body .top-container {
+            margin-top: 70px;
+        }
+    
+    body {
+         padding-bottom: 10px;
+         padding-top: 60px;
+         background-color:#ffffff ;
+         color: #444444;
+    }
+
+ 
+  
+    
+    		.right{float:right;width:auto;margin-left:150px;margin-right:150px;}
+    
+    
+    
+</style>
+		</head>
+<body>
 <p>&emsp;&emsp;細雨淅淅瀝瀝地落下，朦朧了門外的景色，串作絲線一般的雨滴拍打在枝葉上順勢滑落，直掉在地面的水珠則匯成幾汪水窪，雨水因撞擊而濺起的聲響微弱，可在此起彼落之下仍是喧囂。</p>
 <p>&emsp;&emsp;當赤葦京治背著包踏出體育館時，與他打上照面的便是這樣一幅場景，空氣中瀰漫著悶熱的濕氣，潮悶的氣味入侵鼻腔，讓他少有地生出了一絲心煩意亂。</p>
 <p>&emsp;&emsp;而這主要的起因還得歸咎於背上書包側邊空蕩蕩的傘袋，畢竟連他自己都意外，怎麼會在這幾乎天天下雨的季節忘了收起前一天曬在陽台的傘。</p>
@@ -54,3 +79,4 @@
 <p>&emsp;&emsp;又這麼突然？但看到吸引木兔目光的那張渡假村廣告，赤葦一瞬間了然：「那麼下次──」可惜話才到一半，一個猝不及防的噴嚏便找上門，打斷了這次突發的對話。</p>
 <p>&emsp;&emsp;「沒事吧赤葦！」</p>
 <p>&emsp;&emsp;「是，我沒事。」</p>
+</body>
