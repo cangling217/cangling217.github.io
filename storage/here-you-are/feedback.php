@@ -1,3 +1,3 @@
 <?php 
-$var = $_POST['var']
+echo $_POST['comments'];
 ?>
