@@ -45,7 +45,8 @@
 <textarea
 	name='comments'
 	rows='50'
-	column='20'></textarea>
+	column='20'
+	required='required'></textarea>
 <button type="submit">送出</button>
 </form>
 </div>
