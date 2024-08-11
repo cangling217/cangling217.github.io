@@ -35,12 +35,12 @@
 			<a href='./03.html'>秋</a>
 			<a href='./04.html'>冬</a>
       <a href='./creator.html'>Intro</a>
-      <a class=now href='./comment.html'>Comment</a>
+      <a class=now href='./comment.php'>Comment</a>
 			</div>
 <br><br>
 		<h1>Comment Box</h1>
 <div class=text>
-<form action='./feedback.html' method='post'>
+<form action='./feedback.php' method='post'>
 <p>這邊是匿名的心得意見箱，如果對這次作品（含插畫、排版、短文、網頁設計等）有想說的話歡迎留言給我們～</p>
 <textarea
 	name='comments'
